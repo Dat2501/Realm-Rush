@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Realm Rush\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|d:\\unity\\realm rush\\assets\\pathfinding\\pathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|solutionrelative:assets\\pathfinding\\pathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|D:\\Unity\\Realm Rush\\assets\\pathfinding\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|solutionrelative:assets\\pathfinding\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|D:\\Unity\\Realm Rush\\assets\\tile\\coodinaterlabeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|solutionrelative:assets\\tile\\coodinaterlabeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|D:\\Unity\\Realm Rush\\assets\\pathfinding\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABC16F7-AA13-CC14-6CAE-2599FCB2CDD5}|Assembly-CSharp.csproj|solutionrelative:assets\\pathfinding\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PathFinder.cs",
+              "DocumentMoniker": "D:\\Unity\\Realm Rush\\Assets\\PathFinding\\PathFinder.cs",
+              "RelativeDocumentMoniker": "Assets\\PathFinding\\PathFinder.cs",
+              "ToolTip": "D:\\Unity\\Realm Rush\\Assets\\PathFinding\\PathFinder.cs",
+              "RelativeToolTip": "Assets\\PathFinding\\PathFinder.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAwwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:57:31.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GridManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Realm Rush\\Assets\\PathFinding\\GridManager.cs",
+              "RelativeDocumentMoniker": "Assets\\PathFinding\\GridManager.cs",
+              "ToolTip": "D:\\Unity\\Realm Rush\\Assets\\PathFinding\\GridManager.cs",
+              "RelativeToolTip": "Assets\\PathFinding\\GridManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:27:23.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoodinaterLabeler.cs",
+              "DocumentMoniker": "D:\\Unity\\Realm Rush\\Assets\\Tile\\CoodinaterLabeler.cs",
+              "RelativeDocumentMoniker": "Assets\\Tile\\CoodinaterLabeler.cs",
+              "ToolTip": "D:\\Unity\\Realm Rush\\Assets\\Tile\\CoodinaterLabeler.cs",
+              "RelativeToolTip": "Assets\\Tile\\CoodinaterLabeler.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAmwEMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:46:35.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\Unity\\Realm Rush\\Assets\\PathFinding\\Node.cs",
+              "RelativeDocumentMoniker": "Assets\\PathFinding\\Node.cs",
+              "ToolTip": "D:\\Unity\\Realm Rush\\Assets\\PathFinding\\Node.cs",
+              "RelativeToolTip": "Assets\\PathFinding\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:19:51.377Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
